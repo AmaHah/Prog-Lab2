@@ -40,7 +40,7 @@
         <repository>
             <id>in-project</id>
             <name>In Project Repo</name>
-            <url>file://${project.basedir}\libs</url>NOOO
+            <url>file://${project.basedir}\libs</url>
         </repository>
     </repositories>
     <dependencies>
