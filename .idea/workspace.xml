@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85b722a1-5e0e-4e7a-8f35-0e5e3c8c8506" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/PhysicalMoves/BulletSeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/PhysicalMoves/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/SpecialMoves/DreamEater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/SpecialMoves/EnergyBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/SpecialMoves/Inferno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/SpecialMoves/MegaDrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/Amnesia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/Confide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/Growth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/Rest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/SwordsDance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/WillOWisp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Budew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Heatmor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Lilligant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Petilil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Roselia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Roserade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Pokemon.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IgJyPchFp6jm9ori7LP1xEULXI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Amir/IdeaProjects/Lab2/src/main/java/Pokemons"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Amir\IdeaProjects\Lab2\src\main\java\Pokemons" />
+      <recent name="C:\Users\Amir\IdeaProjects\Lab2\src\main\java\Moves\StatusMoves" />
+      <recent name="C:\Users\Amir\IdeaProjects\Lab2\src\main\java\Moves\SpecialMoves" />
+      <recent name="C:\Users\Amir\IdeaProjects\Lab2\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Moves.PhysicalMoves" />
+      <recent name="Moves.SpecialMoves" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab2-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Lab2-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Lab2-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85b722a1-5e0e-4e7a-8f35-0e5e3c8c8506" name="Changes" comment="" />
+      <created>1670597548125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670597548125</updated>
+      <workItem from="1670597550092" duration="3413000" />
+      <workItem from="1670680866490" duration="2017000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
