@@ -5,32 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85b722a1-5e0e-4e7a-8f35-0e5e3c8c8506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/PhysicalMoves/BulletSeed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/PhysicalMoves/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/SpecialMoves/DreamEater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/SpecialMoves/EnergyBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/SpecialMoves/Inferno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/SpecialMoves/MegaDrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/Amnesia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/Confide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/Growth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/Rest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/SwordsDance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Moves/StatusMoves/WillOWisp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Budew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Heatmor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Lilligant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Petilil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Roselia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pokemons/Roserade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Pokemon.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Pokemon.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/1.0/Pokemon-jar-1.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="4r9t1htv" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -56,15 +38,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Amir/IdeaProjects/Lab2/src/main/java/Pokemons"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Amir\IdeaProjects\Lab2\src\main\java\Pokemons" />
@@ -72,18 +52,50 @@
       <recent name="C:\Users\Amir\IdeaProjects\Lab2\src\main\java\Moves\SpecialMoves" />
       <recent name="C:\Users\Amir\IdeaProjects\Lab2\src\main\resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\libs" />
+      <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\src\main\resources" />
+      <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\libs\Pokemon\Pokemon-jar\1.0" />
+      <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\lib" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Moves.PhysicalMoves" />
       <recent name="Moves.SpecialMoves" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.programming-2-1.0-jar-with-dependencies.jar">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab2-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/target/Lab2-1.0-SNAPSHOT.jar" />
       <method v="2" />
     </configuration>
+    <configuration name="programming-2-1.0-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/programming-2-1.0-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="programming-2-1.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/programming-2-1.0.jar" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.programming-2-1.0-jar-with-dependencies.jar" />
+        <item itemvalue="JAR Application.programming-2-1.0.jar" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JAR Application.Lab2-1.0-SNAPSHOT.jar" />
       </list>
     </recent_temporary>
@@ -98,6 +110,7 @@
       <updated>1670597548125</updated>
       <workItem from="1670597550092" duration="3413000" />
       <workItem from="1670680866490" duration="2017000" />
+      <workItem from="1670683717242" duration="2317000" />
     </task>
     <servers />
   </component>

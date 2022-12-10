@@ -1,26 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
-    <groupId>com.Amir</groupId>
-    <artifactId>Lab2</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
     <properties>
-        <maven.compiler.source>19</maven.compiler.source>
-        <maven.compiler.target>19</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>11</maven.compiler.source>
+        <maven.compiler.target>11</maven.compiler.target>
     </properties>
+    <groupId>com</groupId>
+    <artifactId>programming-2</artifactId>
+    <version>1.0</version>
+    <packaging>jar</packaging>
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>Main</mainClass>
+                        </manifest>
+                    </archive>
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    <repositories>
+        <repository>
+            <id>in-project</id>
+            <name>In Project Repo</name>
+            <url>file://${project.basedir}\src\main\resources</url>
+        </repository>
+    </repositories>
     <dependencies>
         <dependency>
-            <groupId>com.sample</groupId>
-            <artifactId>sample</artifactId>
+            <groupId>Pokemon</groupId>
+            <artifactId>Pokemon-jar</artifactId>
             <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>C:/Users/Amir/Downloads/Pokemon.jar</systemPath>
         </dependency>
     </dependencies>
-
 </project>
