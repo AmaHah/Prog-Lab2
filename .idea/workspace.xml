@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="85b722a1-5e0e-4e7a-8f35-0e5e3c8c8506" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Pokemon.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libs/1.0/Pokemon-jar-1.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +51,11 @@
       <recent name="C:\Users\Amir\IdeaProjects\Lab2\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\src\main\resources\Pokemon" />
+      <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\libs\Pokemon-jar" />
       <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\libs" />
       <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\src\main\resources" />
       <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\libs\Pokemon\Pokemon-jar\1.0" />
-      <recent name="C:\Users\R355-W-10-Stud\Downloads\Prog-Lab2\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Moves.PhysicalMoves" />
@@ -110,7 +109,7 @@
       <updated>1670597548125</updated>
       <workItem from="1670597550092" duration="3413000" />
       <workItem from="1670680866490" duration="2017000" />
-      <workItem from="1670683717242" duration="2317000" />
+      <workItem from="1670683717242" duration="3016000" />
     </task>
     <servers />
   </component>
